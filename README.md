@@ -26,10 +26,10 @@ How to Run Locally (Node.js)
 If you prefer to run the application without Docker:
 
 ## Install Dependencies:
-# npm install
+npm install
 Insert this command into your terminal to install Node packages
 ## Start the App:
-# npm start
+npm start
 Insert this command into your terminal to start the app
 (Note: The local version usually runs on port 3000 by default)
 
