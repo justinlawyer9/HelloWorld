@@ -25,11 +25,12 @@ Open your web browser and go to: http://localhost:2000
 How to Run Locally (Node.js)
 If you prefer to run the application without Docker:
 
-Install Dependencies:
-## npm install
-
-Start the App:
-## npm start
+## Install Dependencies:
+# npm install
+Insert this command into your terminal to install Node packages
+## Start the App:
+# npm start
+Insert this command into your terminal to start the app
 (Note: The local version usually runs on port 3000 by default)
 
 
