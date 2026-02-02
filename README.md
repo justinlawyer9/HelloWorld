@@ -9,7 +9,7 @@ Builds the Docker image for the application.
 
 It uses the node:18 base image and packages the app for production.
 
-docker run -dp 2000:8080 justinlawyer9/helloworld
+docker run -dp 2000:8080 username/helloworld
 Runs the container in detached mode.
 
 Open http://localhost:2000 to view it in your browser.
